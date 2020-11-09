@@ -23,4 +23,5 @@ Machine Learning
 2. Logistic Regression mini-project
 3. Predicting Movie Ratings from Reviews Using Naive Bayes
 4. Customer Segmentation Using Clustering
+5. Spark DF, SQl, ML Exercise
 
