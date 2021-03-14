@@ -20,3 +20,7 @@ Machine Learning
 3.3 Predicting Movie Ratings from Reviews Using Naive Bayes  
 3.4 Customer Segmentation Using Clustering  
 3.5 Spark DF, SQl, ML Exercise
+
+Take-Home Challenges
+4.1 Ultimate Technologies Inc. Rider Retention Prediction
+4.2 Relax Inc. User Adoption Prediction
